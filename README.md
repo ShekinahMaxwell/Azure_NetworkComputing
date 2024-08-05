@@ -4,7 +4,7 @@
 <p> This lab will be broken into 3 parts: </p>
 
 <p> part 1: </p>
-<ol>resource groups</ol>
+<ol>Create resource groups</ol>
 <ol>virtual Networks</ol>
 <ol>creating our VMs</ol>
 
