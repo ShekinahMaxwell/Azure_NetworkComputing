@@ -14,43 +14,60 @@
 <p> part 3: Performing activities on the Network:</p>
 <p>Here we will be using Wireshark and Command line tools to perform some activities on the Network</p>
 
-<h2>Description</h2>
-In Progress....This lab will walk through how to create an Active Directory Home Lab envirornment using Oracle Virtual Box. Configuring and running this lab will help develop an understanding of how active directory and windows networking works.
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Wireshark</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b>
-- <b>MacOS</b>
-
-<h2>Program walk-through:</h2>
-
 <p align="center">
-Creating users with Powershell: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Steps"/>
-<br />
-<br />
-
-<p align="center">
-Creating users with Powershell: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Steps"/>
-<br />
-<br />
-
-
+<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+
+
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Various Command-Line Tools
+- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Wireshark (Protocol Analyzer)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10 (21H2)
+- Ubuntu Server 20.04
+
+<h2>High-Level Steps</h2>
+
+- Step 1
+- Step 2
+- Step 3
+- Step 4
+
+<h2>Actions and Observations</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
