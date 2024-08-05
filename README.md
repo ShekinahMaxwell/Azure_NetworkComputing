@@ -1,6 +1,18 @@
 <h1/>Azure Network Computing</h1>
-<p> This will be broken into 2 sections. </p>
-<h1>Active Directory Home Lab</h1>
+<p>Topics covered will be the creation of resources in Azure such as a resource groups, Azure virtual networks and subnets, two Azure virtual machines (Windows-10 and Linux-Ubuntu) and Azure Network Security Groups (Firewall Resource). This will also cover how to use remote Desktop with MacOS and how to perform activites on the Network.</p>
+
+<p> This lab will be broken into 3 parts: </p>
+
+<p> part 1: </p>
+<ol>resource groups</ol>
+<ol>virtual Networks</ol>
+<ol>creating our VMs</ol>
+
+<p> part 2: </p>
+<ol>remote desktop for Mac users</ol>
+
+<p> part 3: Performing activities on the Network:</p>
+<p>Here we will be using Wireshark and Command line tools to perform some activities on the Network</p>
 
 <h2>Description</h2>
 In Progress....This lab will walk through how to create an Active Directory Home Lab envirornment using Oracle Virtual Box. Configuring and running this lab will help develop an understanding of how active directory and windows networking works.
@@ -13,7 +25,7 @@ In Progress....This lab will walk through how to create an Active Directory Home
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
