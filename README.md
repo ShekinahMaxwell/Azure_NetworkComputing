@@ -1,5 +1,9 @@
-<h1/>Azure Network Computing</h1>
-<p>Topics covered will be the creation of resources in Azure such as a resource groups, Azure virtual networks and subnets, two Azure virtual machines (Windows-10 and Linux-Ubuntu) and Azure Network Security Groups (Firewall Resource). This will also cover how to use remote Desktop with MacOS and how to perform activites on the Network.</p>
+<p align="center">
+<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+</p>
+
+<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+<p>In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. Topics covered will be the creation of resources in Azure such as a resource groups, Azure virtual networks and subnets, two Azure virtual machines (Windows-10 and Linux-Ubuntu) and Azure Network Security Groups (Firewall Resource). This will also cover how to use remote Desktop with MacOS and how to perform activites on the Network.</p>
 
 <p> This lab will be broken into 3 parts: </p>
 
@@ -13,14 +17,6 @@
 
 <p> part 3: Performing activities on the Network:</p>
 <p>Here we will be using Wireshark and Command line tools to perform some activities on the Network</p>
-
-<p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
-</p>
-
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
-
 
 <h2>Video Demonstration</h2>
 
