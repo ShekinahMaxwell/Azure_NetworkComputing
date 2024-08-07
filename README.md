@@ -39,11 +39,11 @@
 
 <h2>High-Level Steps</h2>
 
-- Step 1
+- Create Resource Group
 - Step 2
 - Step 3
 - Step 4
-<!----------------Step 1----------------------------------------->
+<!----------------Step 1: Resource Group Creation------------------->
 <h2>Actions and Observations</h2>
 
 <p>
@@ -54,7 +54,7 @@
 Go to portal.azure.com. Assuming you already have an account with a subscription, search resources in the search box and click on create resource group.
 </p>
 <br />
-<!----------------Step 2----------------------------------------->
+<!------------------------------------------------------------------>
 <p>
 <img width="1440" alt="02" src="https://github.com/user-attachments/assets/8552c709-ca12-410f-93a5-5ecd41310f48">
 </p>
@@ -63,7 +63,7 @@ Go to portal.azure.com. Assuming you already have an account with a subscription
 Label your resource group and choose the region most appropriate (If you have trouble later on, you may need to just change your region). Click Review + Create. Then click Create.
 </p>
 <br />
-<!----------------Part 1: Completed Resource Group Creation---------------->
+<!------------------------------------------------------------------>
 <p>
 <img width="1435" alt="04" src="https://github.com/user-attachments/assets/204173e2-d96c-4d8f-8a29-40f978136509">
 </p>
@@ -71,7 +71,7 @@ Label your resource group and choose the region most appropriate (If you have tr
 You have just created your first resource group. Congratulations!
 </p>
 <br />
-
+<!----------------Step 2: Resource Group Creation------------------->
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
