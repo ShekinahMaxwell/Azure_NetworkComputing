@@ -18,9 +18,11 @@
 <p> part 3: Performing activities on the Network:</p>
 <p>Here we will be using Wireshark and Command line tools to perform some activities on the Network</p>
 
-<h2>Video Demonstration</h2>
+<h2>Overview Diagram</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+<p> 
+<img width="652" alt="01concept" src="https://github.com/user-attachments/assets/b44681a7-cb42-4c59-ae60-e468199d2155">
+</p>
 
 <h2>Environments and Technologies Used</h2>
 
