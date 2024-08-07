@@ -41,18 +41,18 @@
 - Step 2
 - Step 3
 - Step 4
-
+<!----------------Step 1----------------------------------------->
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1303" alt="01" src="https://github.com/user-attachments/assets/699b7dc9-7c3e-4a69-92b7-f6aae4f51da6">
 </p>
 
 <p>
 Go to portal.azure.com. Assuming you already have an account with a subscription, search resources in the search box and click on create resource group.
 </p>
 <br />
-
+<!----------------Step 2----------------------------------------->
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
