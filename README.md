@@ -39,9 +39,9 @@
 
 <h2>High-Level Steps</h2>
 
-- Create Resource Group
-- Step 2
-- Step 3
+- Step 1: Create Resource Group
+- Step 2: Create Virtual Machine 1 and 2
+- Step 3: 
 - Step 4
 <!----------------Step 1: Resource Group Creation------------------->
 <h2>Actions and Observations</h2>
@@ -71,20 +71,22 @@ Label your resource group and choose the region most appropriate (If you have tr
 You have just created your first resource group. Congratulations!
 </p>
 <br />
-<!----------------Step 2: Resource Group Creation------------------->
+<!----------------Step 2: Create Virtual Machine 1 and 2------------------->
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="05" src="https://github.com/user-attachments/assets/9eca4c94-da93-4b5a-b8c7-7d8efb807494">
+</p>
+<img width="1435" alt="06" src="https://github.com/user-attachments/assets/6391272f-fd05-423d-9231-5740d75504b1">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Search Virtual Machines in the search bar. Click Create, then click Azure Virtual Machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1436" alt="07" src="https://github.com/user-attachments/assets/50029046-4996-4fde-9688-dd34f4ec3673">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Select the Resource Group we created earlier. Label your Virtual Machine. It's best practice to write down which region your machines are in because ideally you want them all to be in the same region for this lab (Ex: Previously we selected East US 2 for the Resource Group, so for Virtual Machine 1 we also want to select East US 2).
 </p>
 <br />
 
