@@ -78,7 +78,7 @@ Search Virtual Machines in the search bar. Click Create, then click Azure Virtua
 <img width="1440" alt="08" src="https://github.com/user-attachments/assets/0d1df2ed-9483-4ef2-8f2f-fb157fb3266f">
 </p>
 <p>
-Select the Resource Group we created earlier. Label your Virtual Machine. It's best practice to write down which region your machines are in because ideally you want them all to be in the same region for this lab (Ex: Previously we selected East US 2 for the Resource Group, so for Virtual Machine 1 we also want to select East US 2). Select Windows 10 for our first computer. Click see all sizes and Standard _E2s_v3 - 2vcpus, 16 GiB memory. Remember your username and password!
+Select the Resource Group we created earlier. Label your Virtual Machine. It's best practice to write down which region your machines are in because ideally you want them all to be in the same region for this lab (Ex: Previously we selected East US 2 for the Resource Group, so for Virtual Machine 1 we also want to select East US 2). Select Windows 10 for our first computer. Click see all sizes and Standard _E2s_v3 - 2vcpus, 16 GiB memory. Remember your username and password! Click Review+Create. This is creating our Network and VM1.
 </p>
 <br />
 
