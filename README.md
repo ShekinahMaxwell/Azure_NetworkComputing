@@ -5,19 +5,6 @@
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
 <p>In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. Topics covered will be the creation of resources in Azure such as a resource groups, Azure virtual networks and subnets, two Azure virtual machines (Windows-10 and Linux-Ubuntu) and Azure Network Security Groups (Firewall Resource). This will also cover how to use remote Desktop with MacOS and how to perform activites on the Network.</p>
 
-<p> This lab will be broken into 3 parts: </p>
-
-<p> part 1: </p>
-<ol>Create resource groups</ol>
-<ol>virtual Networks</ol>
-<ol>creating our VMs</ol>
-
-<p> part 2: </p>
-<ol>remote desktop for Mac users</ol>
-
-<p> part 3: Performing activities on the Network:</p>
-<p>Here we will be using Wireshark and Command line tools to perform some activities on the Network</p>
-
 <h2>Overview Diagram</h2>
 
 <p> 
@@ -40,9 +27,11 @@
 <h2>High-Level Steps</h2>
 
 - Step 1: Create Resource Group
-- Step 2: Create Virtual Machine 1 and 2
-- Step 3: 
-- Step 4
+- Step 2: Create Virtual Network
+- Step 3: Create Virtual Machines 1 and 2
+- Step 4: Remote desktop instruction for Mac users
+- Step 5: Performing activities on the Network we created
+
 <!----------------Step 1: Resource Group Creation------------------->
 <h2>Actions and Observations</h2>
 
