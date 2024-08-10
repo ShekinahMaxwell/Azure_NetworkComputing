@@ -99,54 +99,53 @@ Select the Resource Group we created earlier. Label your Virtual Machine. It's b
 <img width="1440" alt="13 checkpoint should get this screen" src="https://github.com/user-attachments/assets/7989ab5f-1db7-4b9d-a4ac-c90a126d0e8e">
 </p>
 <p>
-Check Point. You should have a screen that appears as this with a virtual machine 1 created (VM1), a network security group (NSG), a virtual network interface card (NIC), a public ip address, and a virtual network.
+Check Point. You should have a screen that appears as this with a virtual machine 1 created (VM1), a network security group (NSG), a virtual network interface card (NIC), a public ip address, and a virtual network. Time to create our second virtual machine.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1433" alt="15create2ndVM" src="https://github.com/user-attachments/assets/a08441d2-616a-46bd-b8d5-579b07f80537">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1440" alt="16" src="https://github.com/user-attachments/assets/3a72b762-4bb8-4abb-bc8d-eee34a976c26">
+</p>
+<p>
+Search for virtual machines in the search bar and click Create. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="17" src="https://github.com/user-attachments/assets/d7b73dbc-2ef5-4424-8fa4-1e37ecde177e">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Choose the same resource group that VM1 is in. Name the machine VM2 and choose the same region you have selected for VM1.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="18" src="https://github.com/user-attachments/assets/742a32ca-1801-4e1f-ac5f-527a806d7fef">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1437" alt="19" src="https://github.com/user-attachments/assets/ec81db97-fbcc-4fbd-86cd-9d91e20c5e6a">
+</p>
+<p>
+Select Ubuntu for this virtual machine and pick your username and password (For the sake of this practice lab you can use the same login info that VM1 has, since we will delete everything at the end of the lab).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="20" src="https://github.com/user-attachments/assets/8ef4e505-70f8-42bf-b87d-d2495a373a52">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1431" alt="21" src="https://github.com/user-attachments/assets/8875e361-ee8a-4412-aaa6-53fbc107bec8">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="22" src="https://github.com/user-attachments/assets/4d12bf59-8d71-40d4-bc43-1a60b8b37bde">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1440" alt="23final product " src="https://github.com/user-attachments/assets/c4680a41-ec7f-4f3a-ac4a-fa1cf448b6ea">
 </p>
+<p>
+Check Point. Here we have the same products for our VM2 that we did for VM1.
+</P>
 <br />
