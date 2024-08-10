@@ -57,7 +57,7 @@ Label your resource group and choose the region most appropriate (If you have tr
 <img width="1435" alt="04" src="https://github.com/user-attachments/assets/204173e2-d96c-4d8f-8a29-40f978136509">
 </p>
 <p>
-You have just created your first resource group. Congratulations!
+You have just created your first resource group. Congratulations! Next we will create our virtual network and our first virtual machine.
 </p>
 <br />
 <!----------------Step 2: Create Virtual Machine 1 and 2------------------->
@@ -78,15 +78,28 @@ Search Virtual Machines in the search bar. Click Create, then click Azure Virtua
 <img width="1440" alt="08" src="https://github.com/user-attachments/assets/0d1df2ed-9483-4ef2-8f2f-fb157fb3266f">
 </p>
 <p>
-Select the Resource Group we created earlier. Label your Virtual Machine. It's best practice to write down which region your machines are in because ideally you want them all to be in the same region for this lab (Ex: Previously we selected East US 2 for the Resource Group, so for Virtual Machine 1 we also want to select East US 2). Select Windows 10 for our first computer. Click see all sizes and Standard _E2s_v3 - 2vcpus, 16 GiB memory. Remember your username and password! Click Review+Create. This is creating our Network and VM1.
+<img width="1440" alt="09" src="https://github.com/user-attachments/assets/94033e6e-cb8b-4f6e-9a32-86c27ab59e11">
+</p>
+<p> 
+<img width="1440" alt="10" src="https://github.com/user-attachments/assets/6fea21cc-6916-4f43-aa1b-920693ec159a">
+</p>
+<p>
+<img width="1440" alt="11" src="https://github.com/user-attachments/assets/a8e8dc7a-98ec-48bc-98a2-0c6525186efe">
+</p>
+<p>
+<img width="1440" alt="12" src="https://github.com/user-attachments/assets/376fe6aa-2119-4af0-a428-cb0415a052af">
+</p>
+
+<p>
+Select the Resource Group we created earlier. Label your Virtual Machine. It's best practice to write down which region your machines are in because ideally you want them all to be in the same region for this lab (Ex: Previously we selected East US 2 for the Resource Group, so for Virtual Machine 1 we also want to select East US 2). Select Windows 10 for our first computer. Click see all sizes and Standard _E2s_v3 - 2vcpus, 16 GiB memory. Remember your username and password! Click Review+Create. We have created our Network and VM1. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1440" alt="13 checkpoint should get this screen" src="https://github.com/user-attachments/assets/7989ab5f-1db7-4b9d-a4ac-c90a126d0e8e">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Check Point. You should have a screen that appears as this with a virtual machine 1 created (VM1), a network security group (NSG), a virtual network interface card (NIC), a public ip address, and a virtual network.
 </p>
 <br />
 
