@@ -32,9 +32,9 @@
 - Step 4: Remote desktop instruction for Mac users
 - Step 5: Performing activities on the Network we created
 
-<!----------------Step 1: Resource Group Creation------------------->
 <h2>Actions and Observations</h2>
 
+<b>Step 1: Resource Group Creation</b>
 <p>
 <img width="1303" alt="01" src="https://github.com/user-attachments/assets/699b7dc9-7c3e-4a69-92b7-f6aae4f51da6">
 </p>
@@ -43,27 +43,27 @@
 Go to portal.azure.com. Assuming you already have an account with a subscription, search resources in the search box and click on create resource group.
 </p>
 <br />
-<!------------------------------------------------------------------>
+
 <p>
 <img width="1440" alt="02" src="https://github.com/user-attachments/assets/8552c709-ca12-410f-93a5-5ecd41310f48">
 </p>
 
 <p>
-Label your resource group and choose the region most appropriate (If you have trouble later on, you may need to just change your region). Click Review + Create. Then click Create.
+Label your resource group and choose the region most appropriate (If you have trouble later on, you may need to change your region). Click Review + Create. Then click Create.
 </p>
 <br />
-<!------------------------------------------------------------------>
+
 <p>
 <img width="1435" alt="04" src="https://github.com/user-attachments/assets/204173e2-d96c-4d8f-8a29-40f978136509">
 </p>
 <p>
-You have just created your first resource group. Congratulations! Next we will create our virtual network and our first virtual machine.
+You created your first resource group. Next, we will create our virtual network and the first virtual machine.
 </p>
 <br />
-<!----------------Step 2: Create Virtual Machine 1 and 2------------------->
+
+<b>Step 2 and Step 3: Create Virtual Network and Virtual Machines 1 and 2</b>
+
 <p>
-<img width="1440" alt="05" src="https://github.com/user-attachments/assets/9eca4c94-da93-4b5a-b8c7-7d8efb807494">
-</p>
 <img width="1435" alt="06" src="https://github.com/user-attachments/assets/6391272f-fd05-423d-9231-5740d75504b1">
 </p>
 <p>
@@ -146,6 +146,6 @@ Select Ubuntu for this virtual machine and pick your username and password (For 
 <img width="1440" alt="23final product " src="https://github.com/user-attachments/assets/c4680a41-ec7f-4f3a-ac4a-fa1cf448b6ea">
 </p>
 <p>
-Check Point. Here we have the same products for our VM2 that we did for VM1.
+Check Point. Here we have the same products for our VM2 that we did for VM1. This concludes steps 1-3.
 </P>
 <br />
